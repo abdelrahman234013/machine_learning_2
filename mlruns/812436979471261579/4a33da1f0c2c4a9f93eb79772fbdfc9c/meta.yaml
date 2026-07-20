@@ -1,0 +1,15 @@
+artifact_uri: file:c:\Users\bidog\Desktop\ML_2\mlruns/812436979471261579/4a33da1f0c2c4a9f93eb79772fbdfc9c/artifacts
+deleted_time: 1766260036211
+end_time: 1766258799050
+entry_point_name: ''
+experiment_id: '812436979471261579'
+lifecycle_stage: deleted
+run_id: 4a33da1f0c2c4a9f93eb79772fbdfc9c
+run_name: Decision Tree (Tuned Baseline)
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766258785015
+status: 3
+tags: []
+user_id: bidog

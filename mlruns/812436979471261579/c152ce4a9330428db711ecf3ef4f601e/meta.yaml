@@ -1,0 +1,14 @@
+artifact_uri: file:c:\Users\bidog\Desktop\ML_2\mlruns/812436979471261579/c152ce4a9330428db711ecf3ef4f601e/artifacts
+end_time: 1766260865401
+entry_point_name: ''
+experiment_id: '812436979471261579'
+lifecycle_stage: active
+run_id: c152ce4a9330428db711ecf3ef4f601e
+run_name: Decision Tree + SMOTE
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766260860752
+status: 3
+tags: []
+user_id: bidog

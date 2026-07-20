@@ -1,0 +1,15 @@
+artifact_uri: file:c:\Users\bidog\Desktop\ML_2\mlruns/812436979471261579/9b498455e6f546d6adb282d7afc10073/artifacts
+deleted_time: 1766258735948
+end_time: 1766257679190
+entry_point_name: ''
+experiment_id: '812436979471261579'
+lifecycle_stage: deleted
+run_id: 9b498455e6f546d6adb282d7afc10073
+run_name: KNN (Baseline)
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766257669831
+status: 3
+tags: []
+user_id: bidog

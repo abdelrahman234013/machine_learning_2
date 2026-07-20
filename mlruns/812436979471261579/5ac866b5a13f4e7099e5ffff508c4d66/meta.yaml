@@ -1,0 +1,14 @@
+artifact_uri: file:c:\Users\bidog\Desktop\ML_2\mlruns/812436979471261579/5ac866b5a13f4e7099e5ffff508c4d66/artifacts
+end_time: 1766260595531
+entry_point_name: ''
+experiment_id: '812436979471261579'
+lifecycle_stage: active
+run_id: 5ac866b5a13f4e7099e5ffff508c4d66
+run_name: SVM + FS
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766260582826
+status: 3
+tags: []
+user_id: bidog

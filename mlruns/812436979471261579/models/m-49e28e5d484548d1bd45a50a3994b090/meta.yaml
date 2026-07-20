@@ -1,0 +1,10 @@
+artifact_location: file:c:\Users\bidog\Desktop\ML_2\mlruns/812436979471261579/models/m-49e28e5d484548d1bd45a50a3994b090/artifacts
+creation_timestamp: 1766260766413
+experiment_id: '812436979471261579'
+last_updated_timestamp: 1766260770152
+model_id: m-49e28e5d484548d1bd45a50a3994b090
+model_type: null
+name: model
+source_run_id: b8495f97da714e5d9320bd5528fb683f
+status: 2
+status_message: null

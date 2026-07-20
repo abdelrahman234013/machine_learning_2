@@ -1,0 +1,15 @@
+artifact_uri: file:c:\Users\bidog\Desktop\ML_2\mlruns/812436979471261579/40d4be635af14ef5952404c16ef7ce17/artifacts
+deleted_time: 1766260434723
+end_time: 1766260266574
+entry_point_name: ''
+experiment_id: '812436979471261579'
+lifecycle_stage: deleted
+run_id: 40d4be635af14ef5952404c16ef7ce17
+run_name: Decision Tree + FS
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766260251884
+status: 3
+tags: []
+user_id: bidog

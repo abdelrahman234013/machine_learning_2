@@ -1,0 +1,15 @@
+artifact_uri: file:c:\Users\bidog\Desktop\ML_2\mlruns/812436979471261579/ed0555e0e9314b978288f46d44b4b5fc/artifacts
+deleted_time: 1766258735964
+end_time: null
+entry_point_name: ''
+experiment_id: '812436979471261579'
+lifecycle_stage: deleted
+run_id: ed0555e0e9314b978288f46d44b4b5fc
+run_name: SVM (Baseline)
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766258706874
+status: 1
+tags: []
+user_id: bidog
